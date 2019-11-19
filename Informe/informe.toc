@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Resumen}{3}{section.1}% 
+\contentsline {section}{\numberline {2}Introducci\'on te\'orica}{3}{section.2}% 
+\contentsline {section}{\numberline {3}Especificaciones de dise\~no}{3}{section.3}% 
+\contentsline {section}{\numberline {4}Selecci\'on de celdas}{3}{section.4}% 
+\contentsline {section}{\numberline {5}Simulaciones y verificaci\'on}{3}{section.5}% 
+\contentsline {section}{\numberline {6}Mediciones y resultados obtenidos}{3}{section.6}% 
+\contentsline {section}{\numberline {7}Conclusiones}{3}{section.7}% 
