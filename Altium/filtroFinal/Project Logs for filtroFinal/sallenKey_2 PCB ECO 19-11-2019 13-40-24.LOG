@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=TP2_Stage 1 NewDesignator=TP?_Stage 1
+Change Component Designator: OldDesignator=TP2_Stage 2 NewDesignator=TP?_Stage 2
+Change Component Designator: OldDesignator=TP2_Stage 3 NewDesignator=TP?_Stage 3
+Change Component Designator: OldDesignator=TP2_Stage 4 NewDesignator=TP?_Stage 4
+Change Component Designator: OldDesignator=TP2_Stage 5 NewDesignator=TP?_Stage 5
+Added Component: Designator=Rd3_Stage 1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd3_Stage 2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd3_Stage 3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd3_Stage 4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd3_Stage 5(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd4_Stage 1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd4_Stage 2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd4_Stage 3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd4_Stage 4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rd4_Stage 5(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR1a_Stage 1_1 Pin=Rd3_Stage 1-1
+Added Pin To Net: NetName=NetRd1_Stage 1_2 Pin=Rd3_Stage 1-2
+Added Pin To Net: NetName=NetR1a_Stage 2_1 Pin=Rd3_Stage 2-1
+Added Pin To Net: NetName=NetRd1_Stage 2_2 Pin=Rd3_Stage 2-2
+Added Pin To Net: NetName=NetR1a_Stage 3_1 Pin=Rd3_Stage 3-1
+Added Pin To Net: NetName=NetRd1_Stage 3_2 Pin=Rd3_Stage 3-2
+Added Pin To Net: NetName=NetR1a_Stage 4_1 Pin=Rd3_Stage 4-1
+Added Pin To Net: NetName=NetRd1_Stage 4_2 Pin=Rd3_Stage 4-2
+Added Pin To Net: NetName=NetR1a_Stage 5_1 Pin=Rd3_Stage 5-1
+Added Pin To Net: NetName=NetRd1_Stage 5_2 Pin=Rd3_Stage 5-2
+Added Pin To Net: NetName=GND Pin=Rd4_Stage 1-1
+Added Pin To Net: NetName=NetRd1_Stage 1_2 Pin=Rd4_Stage 1-2
+Added Pin To Net: NetName=GND Pin=Rd4_Stage 2-1
+Added Pin To Net: NetName=NetRd1_Stage 2_2 Pin=Rd4_Stage 2-2
+Added Pin To Net: NetName=GND Pin=Rd4_Stage 3-1
+Added Pin To Net: NetName=NetRd1_Stage 3_2 Pin=Rd4_Stage 3-2
+Added Pin To Net: NetName=GND Pin=Rd4_Stage 4-1
+Added Pin To Net: NetName=NetRd1_Stage 4_2 Pin=Rd4_Stage 4-2
+Added Pin To Net: NetName=GND Pin=Rd4_Stage 5-1
+Added Pin To Net: NetName=NetRd1_Stage 5_2 Pin=Rd4_Stage 5-2
+Added Member To Class: ClassName=Stage 1 Member=Component Rd3_Stage 1 (Rd3) RES
+Added Member To Class: ClassName=Stage 2 Member=Component Rd3_Stage 2 (Rd3) RES
+Added Member To Class: ClassName=Stage 3 Member=Component Rd3_Stage 3 (Rd3) RES
+Added Member To Class: ClassName=Stage 4 Member=Component Rd3_Stage 4 (Rd3) RES
+Added Member To Class: ClassName=Stage 5 Member=Component Rd3_Stage 5 (Rd3) RES
+Added Member To Class: ClassName=Stage 1 Member=Component Rd4_Stage 1 (Rd4) RES
+Added Member To Class: ClassName=Stage 2 Member=Component Rd4_Stage 2 (Rd4) RES
+Added Member To Class: ClassName=Stage 3 Member=Component Rd4_Stage 3 (Rd4) RES
+Added Member To Class: ClassName=Stage 4 Member=Component Rd4_Stage 4 (Rd4) RES
+Added Member To Class: ClassName=Stage 5 Member=Component Rd4_Stage 5 (Rd4) RES
+Added Room: Name=finalFilter
