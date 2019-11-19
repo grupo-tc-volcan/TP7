@@ -1,0 +1,423 @@
+Added Component: Designator=C1_S1(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_S2(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_S3(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_S4(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2_S1(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2_S2(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2_S3(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2_S4(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IN(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1c_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1c_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1c_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1c_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2c_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2c_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2c_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2c_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra1_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra1_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra1_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra1_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra2_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra2_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra2_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra2_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra3_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra3_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra3_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ra3_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb1_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb1_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb1_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb1_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb2_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb2_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb2_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb2_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb3_S1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb3_S2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb3_S3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rb3_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SUPPLY(BORNERA3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_S1(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_S2(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_S3(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_S4(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_S1(P008)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Feb-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-Jan-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_S2(P008)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Feb-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-Jan-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_S3(P008)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Feb-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-Jan-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_S4(P008)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-001-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/tl082.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Feb-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-Jan-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IN-2
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=R2a_S1-1
+Added Pin To Net: NetName=GND Pin=R2a_S2-1
+Added Pin To Net: NetName=GND Pin=R2a_S3-1
+Added Pin To Net: NetName=GND Pin=R2a_S4-1
+Added Pin To Net: NetName=GND Pin=R2c_S1-1
+Added Pin To Net: NetName=GND Pin=R2c_S2-1
+Added Pin To Net: NetName=GND Pin=R2c_S3-1
+Added Pin To Net: NetName=GND Pin=R2c_S4-1
+Added Pin To Net: NetName=GND Pin=Rb1_S1-1
+Added Pin To Net: NetName=GND Pin=Rb1_S2-1
+Added Pin To Net: NetName=GND Pin=Rb1_S3-1
+Added Pin To Net: NetName=GND Pin=Rb1_S4-1
+Added Pin To Net: NetName=GND Pin=Rb3_S1-1
+Added Pin To Net: NetName=GND Pin=Rb3_S2-1
+Added Pin To Net: NetName=GND Pin=Rb3_S3-1
+Added Pin To Net: NetName=GND Pin=Rb3_S4-1
+Added Pin To Net: NetName=VCC Pin=SUPPLY-1
+Added Pin To Net: NetName=GND Pin=SUPPLY-2
+Added Pin To Net: NetName=VEE Pin=SUPPLY-3
+Added Pin To Net: NetName=VEE Pin=U1_S1-4
+Added Pin To Net: NetName=VCC Pin=U1_S1-8
+Added Pin To Net: NetName=VEE Pin=U1_S2-4
+Added Pin To Net: NetName=VCC Pin=U1_S2-8
+Added Pin To Net: NetName=VEE Pin=U1_S3-4
+Added Pin To Net: NetName=VCC Pin=U1_S3-8
+Added Pin To Net: NetName=VEE Pin=U1_S4-4
+Added Pin To Net: NetName=NetOUT_1 Pin=U1_S4-6
+Added Pin To Net: NetName=NetOUT_1 Pin=U1_S4-7
+Added Pin To Net: NetName=VCC Pin=U1_S4-8
+Added Pin To Net: NetName=NetC1_S1_1 Pin=C1_S1-1
+Added Pin To Net: NetName=NetC1_S1_1 Pin=IN-1
+Added Net: Name=NetC1_S1_1
+Added Pin To Net: NetName=NetC1_S1_2 Pin=C1_S1-2
+Added Pin To Net: NetName=NetC1_S1_2 Pin=C2_S1-1
+Added Pin To Net: NetName=NetC1_S1_2 Pin=R1a_S1-2
+Added Pin To Net: NetName=NetC1_S1_2 Pin=R1b_S1-2
+Added Net: Name=NetC1_S1_2
+Added Pin To Net: NetName=NetC1_S2_1 Pin=C1_S2-1
+Added Pin To Net: NetName=NetC1_S2_1 Pin=S1-2
+Added Net: Name=NetC1_S2_1
+Added Pin To Net: NetName=NetC1_S2_2 Pin=C1_S2-2
+Added Pin To Net: NetName=NetC1_S2_2 Pin=C2_S2-1
+Added Pin To Net: NetName=NetC1_S2_2 Pin=R1a_S2-2
+Added Pin To Net: NetName=NetC1_S2_2 Pin=R1b_S2-2
+Added Net: Name=NetC1_S2_2
+Added Pin To Net: NetName=NetC1_S3_1 Pin=C1_S3-1
+Added Pin To Net: NetName=NetC1_S3_1 Pin=S2-2
+Added Net: Name=NetC1_S3_1
+Added Pin To Net: NetName=NetC1_S3_2 Pin=C1_S3-2
+Added Pin To Net: NetName=NetC1_S3_2 Pin=C2_S3-1
+Added Pin To Net: NetName=NetC1_S3_2 Pin=R1a_S3-2
+Added Pin To Net: NetName=NetC1_S3_2 Pin=R1b_S3-2
+Added Net: Name=NetC1_S3_2
+Added Pin To Net: NetName=NetC1_S4_1 Pin=C1_S4-1
+Added Pin To Net: NetName=NetC1_S4_1 Pin=S3-2
+Added Net: Name=NetC1_S4_1
+Added Pin To Net: NetName=NetC1_S4_2 Pin=C1_S4-2
+Added Pin To Net: NetName=NetC1_S4_2 Pin=C2_S4-1
+Added Pin To Net: NetName=NetC1_S4_2 Pin=R1a_S4-2
+Added Pin To Net: NetName=NetC1_S4_2 Pin=R1b_S4-2
+Added Net: Name=NetC1_S4_2
+Added Pin To Net: NetName=NetC2_S1_2 Pin=C2_S1-2
+Added Pin To Net: NetName=NetC2_S1_2 Pin=R2a_S1-2
+Added Pin To Net: NetName=NetC2_S1_2 Pin=R2b_S1-2
+Added Pin To Net: NetName=NetC2_S1_2 Pin=U1_S1-3
+Added Net: Name=NetC2_S1_2
+Added Pin To Net: NetName=NetC2_S2_2 Pin=C2_S2-2
+Added Pin To Net: NetName=NetC2_S2_2 Pin=R2a_S2-2
+Added Pin To Net: NetName=NetC2_S2_2 Pin=R2b_S2-2
+Added Pin To Net: NetName=NetC2_S2_2 Pin=U1_S2-3
+Added Net: Name=NetC2_S2_2
+Added Pin To Net: NetName=NetC2_S3_2 Pin=C2_S3-2
+Added Pin To Net: NetName=NetC2_S3_2 Pin=R2a_S3-2
+Added Pin To Net: NetName=NetC2_S3_2 Pin=R2b_S3-2
+Added Pin To Net: NetName=NetC2_S3_2 Pin=U1_S3-3
+Added Net: Name=NetC2_S3_2
+Added Pin To Net: NetName=NetC2_S4_2 Pin=C2_S4-2
+Added Pin To Net: NetName=NetC2_S4_2 Pin=R2a_S4-2
+Added Pin To Net: NetName=NetC2_S4_2 Pin=R2b_S4-2
+Added Pin To Net: NetName=NetC2_S4_2 Pin=U1_S4-3
+Added Net: Name=NetC2_S4_2
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=R1a_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=R1c_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=Ra1_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=Ra3_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=TP1_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=U1_S1-1
+Added Pin To Net: NetName=NetR1a_S1_1 Pin=U1_S1-5
+Added Net: Name=NetR1a_S1_1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=R1a_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=R1c_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=Ra1_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=Ra3_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=TP1_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=U1_S2-1
+Added Pin To Net: NetName=NetR1a_S2_1 Pin=U1_S2-5
+Added Net: Name=NetR1a_S2_1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=R1a_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=R1c_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=Ra1_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=Ra3_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=TP1_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=U1_S3-1
+Added Pin To Net: NetName=NetR1a_S3_1 Pin=U1_S3-5
+Added Net: Name=NetR1a_S3_1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=R1a_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=R1c_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=Ra1_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=Ra3_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=TP1_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=U1_S4-1
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=U1_S4-5
+Added Net: Name=NetR1a_S4_1
+Added Pin To Net: NetName=NetR1b_S1_1 Pin=R1b_S1-1
+Added Pin To Net: NetName=NetR1b_S1_1 Pin=R1c_S1-2
+Added Net: Name=NetR1b_S1_1
+Added Pin To Net: NetName=NetR1b_S2_1 Pin=R1b_S2-1
+Added Pin To Net: NetName=NetR1b_S2_1 Pin=R1c_S2-2
+Added Net: Name=NetR1b_S2_1
+Added Pin To Net: NetName=NetR1b_S3_1 Pin=R1b_S3-1
+Added Pin To Net: NetName=NetR1b_S3_1 Pin=R1c_S3-2
+Added Net: Name=NetR1b_S3_1
+Added Pin To Net: NetName=NetR1b_S4_1 Pin=R1b_S4-1
+Added Pin To Net: NetName=NetR1b_S4_1 Pin=R1c_S4-2
+Added Net: Name=NetR1b_S4_1
+Added Pin To Net: NetName=NetR2b_S1_1 Pin=R2b_S1-1
+Added Pin To Net: NetName=NetR2b_S1_1 Pin=R2c_S1-2
+Added Net: Name=NetR2b_S1_1
+Added Pin To Net: NetName=NetR2b_S2_1 Pin=R2b_S2-1
+Added Pin To Net: NetName=NetR2b_S2_1 Pin=R2c_S2-2
+Added Net: Name=NetR2b_S2_1
+Added Pin To Net: NetName=NetR2b_S3_1 Pin=R2b_S3-1
+Added Pin To Net: NetName=NetR2b_S3_1 Pin=R2c_S3-2
+Added Net: Name=NetR2b_S3_1
+Added Pin To Net: NetName=NetR2b_S4_1 Pin=R2b_S4-1
+Added Pin To Net: NetName=NetR2b_S4_1 Pin=R2c_S4-2
+Added Net: Name=NetR2b_S4_1
+Added Pin To Net: NetName=NetRa1_S1_2 Pin=Ra1_S1-2
+Added Pin To Net: NetName=NetRa1_S1_2 Pin=Ra2_S1-2
+Added Pin To Net: NetName=NetRa1_S1_2 Pin=Rb1_S1-2
+Added Pin To Net: NetName=NetRa1_S1_2 Pin=Rb2_S1-2
+Added Pin To Net: NetName=NetRa1_S1_2 Pin=U1_S1-2
+Added Net: Name=NetRa1_S1_2
+Added Pin To Net: NetName=NetRa1_S2_2 Pin=Ra1_S2-2
+Added Pin To Net: NetName=NetRa1_S2_2 Pin=Ra2_S2-2
+Added Pin To Net: NetName=NetRa1_S2_2 Pin=Rb1_S2-2
+Added Pin To Net: NetName=NetRa1_S2_2 Pin=Rb2_S2-2
+Added Pin To Net: NetName=NetRa1_S2_2 Pin=U1_S2-2
+Added Net: Name=NetRa1_S2_2
+Added Pin To Net: NetName=NetRa1_S3_2 Pin=Ra1_S3-2
+Added Pin To Net: NetName=NetRa1_S3_2 Pin=Ra2_S3-2
+Added Pin To Net: NetName=NetRa1_S3_2 Pin=Rb1_S3-2
+Added Pin To Net: NetName=NetRa1_S3_2 Pin=Rb2_S3-2
+Added Pin To Net: NetName=NetRa1_S3_2 Pin=U1_S3-2
+Added Net: Name=NetRa1_S3_2
+Added Pin To Net: NetName=NetRa1_S4_2 Pin=Ra1_S4-2
+Added Pin To Net: NetName=NetRa1_S4_2 Pin=Ra2_S4-2
+Added Pin To Net: NetName=NetRa1_S4_2 Pin=Rb1_S4-2
+Added Pin To Net: NetName=NetRa1_S4_2 Pin=Rb2_S4-2
+Added Pin To Net: NetName=NetRa1_S4_2 Pin=U1_S4-2
+Added Net: Name=NetRa1_S4_2
+Added Pin To Net: NetName=NetRa2_S1_1 Pin=Ra2_S1-1
+Added Pin To Net: NetName=NetRa2_S1_1 Pin=Ra3_S1-2
+Added Net: Name=NetRa2_S1_1
+Added Pin To Net: NetName=NetRa2_S2_1 Pin=Ra2_S2-1
+Added Pin To Net: NetName=NetRa2_S2_1 Pin=Ra3_S2-2
+Added Net: Name=NetRa2_S2_1
+Added Pin To Net: NetName=NetRa2_S3_1 Pin=Ra2_S3-1
+Added Pin To Net: NetName=NetRa2_S3_1 Pin=Ra3_S3-2
+Added Net: Name=NetRa2_S3_1
+Added Pin To Net: NetName=NetRa2_S4_1 Pin=Ra2_S4-1
+Added Pin To Net: NetName=NetRa2_S4_1 Pin=Ra3_S4-2
+Added Net: Name=NetRa2_S4_1
+Added Pin To Net: NetName=NetRb2_S1_1 Pin=Rb2_S1-1
+Added Pin To Net: NetName=NetRb2_S1_1 Pin=Rb3_S1-2
+Added Net: Name=NetRb2_S1_1
+Added Pin To Net: NetName=NetRb2_S2_1 Pin=Rb2_S2-1
+Added Pin To Net: NetName=NetRb2_S2_1 Pin=Rb3_S2-2
+Added Net: Name=NetRb2_S2_1
+Added Pin To Net: NetName=NetRb2_S3_1 Pin=Rb2_S3-1
+Added Pin To Net: NetName=NetRb2_S3_1 Pin=Rb3_S3-2
+Added Net: Name=NetRb2_S3_1
+Added Pin To Net: NetName=NetRb2_S4_1 Pin=Rb2_S4-1
+Added Pin To Net: NetName=NetRb2_S4_1 Pin=Rb3_S4-2
+Added Net: Name=NetRb2_S4_1
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=U1_S1-6
+Added Pin To Net: NetName=NetS1_1 Pin=U1_S1-7
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=NetS2_1 Pin=U1_S2-6
+Added Pin To Net: NetName=NetS2_1 Pin=U1_S2-7
+Added Net: Name=NetS2_1
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=NetS3_1 Pin=U1_S3-6
+Added Pin To Net: NetName=NetS3_1 Pin=U1_S3-7
+Added Net: Name=NetS3_1
+Added Class: Name=S2
+Added Class: Name=S3
+Added Class: Name=S4
+Added Class: Name=filtroFinal
+Added Member To Class: ClassName=S1 Member=Component C1_S1 (C1) CAP
+Added Member To Class: ClassName=S1 Member=Component C2_S1 (C2) CAP
+Added Member To Class: ClassName=finalFilter Member=Component IN BORNERA 2
+Added Member To Class: ClassName=finalFilter Member=Component OUT BORNERA 2
+Added Member To Class: ClassName=S1 Member=Component R1a_S1 (R1a) RES
+Added Member To Class: ClassName=S1 Member=Component R1b_S1 (R1b) RES
+Added Member To Class: ClassName=S1 Member=Component R1c_S1 (R1c) RES
+Added Member To Class: ClassName=S1 Member=Component R2a_S1 (R2a) RES
+Added Member To Class: ClassName=S1 Member=Component R2b_S1 (R2b) RES
+Added Member To Class: ClassName=S1 Member=Component R2c_S1 (R2c) RES
+Added Member To Class: ClassName=S1 Member=Component Ra1_S1 (Ra1) RES
+Added Member To Class: ClassName=S1 Member=Component Ra2_S1 (Ra2) RES
+Added Member To Class: ClassName=S1 Member=Component Ra3_S1 (Ra3) RES
+Added Member To Class: ClassName=S1 Member=Component Rb1_S1 (Rb1) RES
+Added Member To Class: ClassName=S1 Member=Component Rb2_S1 (Rb2) RES
+Added Member To Class: ClassName=S1 Member=Component Rb3_S1 (Rb3) RES
+Added Member To Class: ClassName=finalFilter Member=Component S1 JUMPER
+Added Member To Class: ClassName=finalFilter Member=Component S2 JUMPER
+Added Member To Class: ClassName=finalFilter Member=Component S3 JUMPER
+Added Member To Class: ClassName=finalFilter Member=Component SUPPLY BORNERA 3
+Added Member To Class: ClassName=S1 Member=Component TP1_S1 (TP1) TP
+Added Member To Class: ClassName=S1 Member=Component U1_S1 (U1A) TL082P
+Added Room: Name=finalFilter
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S3
+Added Room: Name=S4

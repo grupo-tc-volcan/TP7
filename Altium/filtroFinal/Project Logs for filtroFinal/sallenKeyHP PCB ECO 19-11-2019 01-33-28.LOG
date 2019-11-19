@@ -1,0 +1,10 @@
+Added Component: Designator=R1b_S4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_S4(TPTH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR1b_S4_1 Pin=R1b_S4-1
+Added Pin To Net: NetName=NetC1_S4_2 Pin=R1b_S4-2
+Added Pin To Net: NetName=NetR1a_S4_1 Pin=TP1_S4-1
+Added Member To Class: ClassName=S4 Member=Component R1b_S4 (R1b) RES
+Added Member To Class: ClassName=S4 Member=Component TP1_S4 (TP1) TP
+Added Room: Name=finalFilter

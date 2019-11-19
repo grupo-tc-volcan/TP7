@@ -1,0 +1,60 @@
+Added Component: Designator=Cd1(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd2(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd3(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd4(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd5(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd6(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd7(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd8(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd9(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd10(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd11(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cd12(CAP200)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=Cd1-1
+Added Pin To Net: NetName=GND Pin=Cd1-2
+Added Pin To Net: NetName=VCC Pin=Cd2-1
+Added Pin To Net: NetName=GND Pin=Cd2-2
+Added Pin To Net: NetName=VCC Pin=Cd3-1
+Added Pin To Net: NetName=GND Pin=Cd3-2
+Added Pin To Net: NetName=VCC Pin=Cd4-1
+Added Pin To Net: NetName=GND Pin=Cd4-2
+Added Pin To Net: NetName=VCC Pin=Cd5-1
+Added Pin To Net: NetName=GND Pin=Cd5-2
+Added Pin To Net: NetName=VEE Pin=Cd6-1
+Added Pin To Net: NetName=GND Pin=Cd6-2
+Added Pin To Net: NetName=VEE Pin=Cd7-1
+Added Pin To Net: NetName=GND Pin=Cd7-2
+Added Pin To Net: NetName=VEE Pin=Cd8-1
+Added Pin To Net: NetName=GND Pin=Cd8-2
+Added Pin To Net: NetName=VEE Pin=Cd9-1
+Added Pin To Net: NetName=GND Pin=Cd9-2
+Added Pin To Net: NetName=VEE Pin=Cd10-1
+Added Pin To Net: NetName=GND Pin=Cd10-2
+Added Pin To Net: NetName=VCC Pin=Cd11-1
+Added Pin To Net: NetName=GND Pin=Cd11-2
+Added Pin To Net: NetName=VEE Pin=Cd12-1
+Added Pin To Net: NetName=GND Pin=Cd12-2
+Added Member To Class: ClassName=finalFilter Member=Component Cd1 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd2 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd3 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd4 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd5 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd6 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd7 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd8 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd9 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd10 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd11 CAP
+Added Member To Class: ClassName=finalFilter Member=Component Cd12 CAP
