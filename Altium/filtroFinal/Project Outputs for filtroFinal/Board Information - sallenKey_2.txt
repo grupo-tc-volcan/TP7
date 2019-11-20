@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\TC\TP7\TP7\Altium\filtroFinal\sallenKey_2.PcbDoc
+Date         : 11/19/2019
+Time         : 1:58:56 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 207
+    Connections routed, 207
+    Connections remaining, 0
+count : 4
