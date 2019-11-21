@@ -1,8 +1,19 @@
 \babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Resumen}{3}{section.1}% 
 \contentsline {section}{\numberline {2}Introducci\'on te\'orica}{3}{section.2}% 
-\contentsline {section}{\numberline {3}Especificaciones de dise\~no}{3}{section.3}% 
-\contentsline {section}{\numberline {4}Selecci\'on de celdas}{3}{section.4}% 
-\contentsline {section}{\numberline {5}Simulaciones y verificaci\'on}{3}{section.5}% 
-\contentsline {section}{\numberline {6}Mediciones y resultados obtenidos}{3}{section.6}% 
-\contentsline {section}{\numberline {7}Conclusiones}{3}{section.7}% 
+\contentsline {section}{\numberline {3}Dise\~no del filtro}{3}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Obtenci\'on de polos, ceros y Q a partir de la aproximaci\'on de Legendre}{3}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Ordenamiento de etapas y selecci\'on de celdas}{4}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Celda Fleischer-Tow}{4}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Funci\'on transferencia y par\'ametros}{4}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Sensibilidades}{5}{subsubsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.3}Selecci\'on de componentes}{5}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Primera etapa: Filtro pasa altos - CR}{5}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Segunda etapa: Filtro pasa altos - Sallen-Key}{6}{subsubsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Tercera etapa: Filtro pasa altos - Sallen-Key}{6}{subsubsection.3.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.4}Cuarta etapa: Filtro pasa altos - Sallen-Key}{6}{subsubsection.3.3.4}% 
+\contentsline {subsubsection}{\numberline {3.3.5}Quinta etapa: Filtro pasa altos - Sallen-Key}{7}{subsubsection.3.3.5}% 
+\contentsline {subsubsection}{\numberline {3.3.6}Sexta etapa: Filtro pasa altos - Flesicher-Tow}{7}{subsubsection.3.3.6}% 
+\contentsline {section}{\numberline {4}Simulaciones y verificaci\'on}{8}{section.4}% 
+\contentsline {section}{\numberline {5}Mediciones y resultados obtenidos}{8}{section.5}% 
+\contentsline {section}{\numberline {6}Conclusiones}{8}{section.6}% 

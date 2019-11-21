@@ -1,7 +1,18 @@
 \BOOKMARK [1][-]{section.1}{Resumen}{}% 1
 \BOOKMARK [1][-]{section.2}{Introducci\363n te\363rica}{}% 2
-\BOOKMARK [1][-]{section.3}{Especificaciones de dise\361o}{}% 3
-\BOOKMARK [1][-]{section.4}{Selecci\363n de celdas}{}% 4
-\BOOKMARK [1][-]{section.5}{Simulaciones y verificaci\363n}{}% 5
-\BOOKMARK [1][-]{section.6}{Mediciones y resultados obtenidos}{}% 6
-\BOOKMARK [1][-]{section.7}{Conclusiones}{}% 7
+\BOOKMARK [1][-]{section.3}{Dise\361o del filtro}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Obtenci\363n de polos, ceros y Q a partir de la aproximaci\363n de Legendre}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Ordenamiento de etapas y selecci\363n de celdas}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Celda Fleischer-Tow}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Funci\363n transferencia y par\341metros}{subsection.3.2}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Sensibilidades}{subsection.3.2}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Selecci\363n de componentes}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Primera etapa: Filtro pasa altos - CR}{subsection.3.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Segunda etapa: Filtro pasa altos - Sallen-Key}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Tercera etapa: Filtro pasa altos - Sallen-Key}{subsection.3.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Cuarta etapa: Filtro pasa altos - Sallen-Key}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Quinta etapa: Filtro pasa altos - Sallen-Key}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Sexta etapa: Filtro pasa altos - Flesicher-Tow}{subsection.3.3}% 15
+\BOOKMARK [1][-]{section.4}{Simulaciones y verificaci\363n}{}% 16
+\BOOKMARK [1][-]{section.5}{Mediciones y resultados obtenidos}{}% 17
+\BOOKMARK [1][-]{section.6}{Conclusiones}{}% 18
