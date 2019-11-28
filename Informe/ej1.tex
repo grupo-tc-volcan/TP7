@@ -72,7 +72,7 @@ Se agruparon los polos y ceros de forma que quedara primero una etapa de primer 
 
 \subsubsection{Funci\'on transferencia y par\'ametros}
 
-\begin{table}[H] %estas son las del libro!
+\begin{table}[H] 
 	\centering
 	\begin{tabular}{c c c c}
 		$H(s)$ gen\'erica & $\omega_0$ & $Q$\\
@@ -86,13 +86,13 @@ Se agruparon los polos y ceros de forma que quedara primero una etapa de primer 
 
 \begin{table}[H] %estas son las del libro!
 	\centering
-	\begin{tabular}{c c c c }
+	\begin{tabular}{c c c c c c c}
 		Salida & Condiciones & $H(s)$ & $G$ & $\omega_p$ & $Q$ & $\omega_z$\\
 		\hline \\
 		HP & $R_5=\infty$&$- \frac{\frac{R_8}{R_6}s^2}{s^2+\frac{1}{R_1C_1}s+\frac{R_8}{R_2R_3R_7C_1C_2}}$&$-\frac{R_8}{R_6}$\\ \\
 		\hline
 	\end{tabular}
-	\caption{Caracter\'isticas de la celda Fleischer-Tow.}
+	\caption{Caracter\'isticas de la configuraci\'on pasa altos de la celda Fleischer-Tow.}
 	\label{f_cars}
 \end{table}
 
@@ -100,19 +100,19 @@ Se agruparon los polos y ceros de forma que quedara primero una etapa de primer 
 
 \begin{table}[H]
 	\centering
-	\begin{tabular}{c c c c c c c}
-		& $\omega_0$ & $Q$ &$G_{LP}$ & $G_{BP}$& $G_{HP}$& $G_{BR}$\\
+	\begin{tabular}{c c c c}
+		& $\omega_0$ & $Q$ & $G_{HP}$\\
 		\hline \\ 
-		$R_1$ & $0$ & $1$ & $0$ & $1$ & $0$ & $0$\\ \\
-		$R_2$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ & $1$ & $0$ & $0$ & $1$\\ \\
-		$R_3$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ & $0$ & $0$ & $0$ & $0$\\ \\
-		$R_4$ & $0$ & $0$ & $0$ & $-1$ & $0$ & $0$\\ \\
-		$R_5$ & $0$ & $0$ & $-1$ & $0$ & $0$ & $-1$\\ \\
-		$R_6$ & $0$ & $0$ & $0$ & $0$ & $-1$ & $0$\\ \\
-		$R_7$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ & $0$ & $-1$ & $0$ & $0$\\ \\
-		$R_8$ & $\frac{1}{2}$ & $\frac{1}{2}$ & $0$ & $1$ & $1$ & $0$\\ \\
-		$C_1$ & $-\frac{1}{2}$ & $\frac{1}{2}$ & $0$ & $0$ & $0$ & $0$\\ \\
-		$C_2$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ & $0$ & $0$ & $0$ & $0$\\ \\
+		$R_1$ & $0$ & $1$ &  $0$ \\ \\
+		$R_2$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ &  $0$\\ \\
+		$R_3$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ &  $0$\\ \\
+		$R_4$ & $0$ & $0$ &  $0$ \\ \\
+		$R_5$ & $0$ & $0$ &  $0$ \\ \\
+		$R_6$ & $0$ & $0$ &  $-1$\\ \\
+		$R_7$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ &  $0$ \\ \\
+		$R_8$ & $\frac{1}{2}$ & $\frac{1}{2}$ &  $1$ \\ \\
+		$C_1$ & $-\frac{1}{2}$ & $\frac{1}{2}$ &  $0$ \\ \\
+		$C_2$ & $-\frac{1}{2}$ & $-\frac{1}{2}$ &  $0$ \\ \\
 		\hline
 	\end{tabular}
 	\caption{Sensibilidades de la celda Fleischer-Tow}
@@ -269,8 +269,114 @@ Los valores para esta celda correspondientes a la imagen \ref{flesicher} son los
 	\label{componentes6}
 \end{table}
 
-\section{Simulaciones y verificaci\'on}
-
 \section{Mediciones y resultados obtenidos}
+
+\subsection{Primera etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FIRST_MOD.png}
+	\caption{Primera etapa - M\'odulo}
+	\label{firstmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FIRST_PHA.png}
+	\caption{Primera etapa - Fase}
+	\label{firstP}
+\end{figure}
+
+
+\subsection{Segunda etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/SECOND_MOD.png}
+	\caption{Segunda etapa - M\'odulo}
+	\label{secondmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/SECOND_PHA.png}
+	\caption{Segunda etapa - Fase}
+	\label{2P}
+\end{figure}
+
+\subsection{Tercera etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/THIRD_MOD.png}
+	\caption{Tercera etapa - M\'odulo}
+	\label{thirdmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/THIRD_PHA.png}
+	\caption{Tercera etapa - Fase}
+	\label{3P}
+\end{figure}
+
+
+\subsection{Cuarta etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FOURTH_MOD.png}
+	\caption{Cuarta etapa - M\'odulo}
+	\label{fourthmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FOURTH_PHA.png}
+	\caption{Cuarta etapa - Fase}
+	\label{4P}
+\end{figure}
+
+
+\subsection{Quinta etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FIFTH_MOD.png}
+	\caption{Quinta etapa - M\'odulo}
+	\label{fIFThmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/FIFTH_PHA.png}
+	\caption{Quinta etapa - Fase}
+	\label{5P}
+\end{figure}
+
+\subsection{Sexta etapa}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/UNIVERSAL_MOD.png}
+	\caption{Sexta etapa - M\'odulo}
+	\label{univmod}
+\end{figure}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/UNIVERSAL_PHA.png}
+	\caption{Sexta etapa - Fase}
+	\label{6P}
+\end{figure}
+
+\subsection{Filtro completo}
+
+ \begin{figure}[H] %!ht
+	\centering
+	\includegraphics[width=12cm,height=12cm,keepaspectratio]{../Imagenes/ALL_MOD.png}
+	\caption{Filtro completo - M\'odulo}
+	\label{completo}
+\end{figure}
 
 \section{Conclusiones}
